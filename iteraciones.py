@@ -1,120 +1,119 @@
 temperaturas = [
     [   # Ciudad Quito
-        [   # enero 1
-            {"day": "Lunes", "temp": 78},
-            {"day": "Martes", "temp": 80},
-            {"day": "Miércoles", "temp": 82},
-            {"day": "Jueves", "temp": 79},
-            {"day": "Viernes", "temp": 85},
-            {"day": "Sábado", "temp": 88},
-            {"day": "Domingo", "temp": 92}
+        [   # Semana 1
+            {"day": "Lunes", "temp": 35},
+            {"day": "Martes", "temp": 23},
+            {"day": "Miércoles", "temp": 22},
+            {"day": "Jueves", "temp": 31},
+            {"day": "Viernes", "temp": 25},
+            {"day": "Sábado", "temp": 28},
+            {"day": "Domingo", "temp": 32}
         ],
-        [   # febrero 2
-            {"day": "Lunes", "temp": 76},
-            {"day": "Martes", "temp": 79},
-            {"day": "Miércoles", "temp": 83},
-            {"day": "Jueves", "temp": 81},
-            {"day": "Viernes", "temp": 87},
-            {"day": "Sábado", "temp": 89},
-            {"day": "Domingo", "temp": 93}
+        [   # Semana 2
+            {"day": "Lunes", "temp": 16},
+            {"day": "Martes", "temp": 29},
+            {"day": "Miércoles", "temp": 33},
+            {"day": "Jueves", "temp": 21},
+            {"day": "Viernes", "temp": 17},
+            {"day": "Sábado", "temp": 29},
+            {"day": "Domingo", "temp": 33}
         ],
-        [   # marzo 3
-            {"day": "Lunes", "temp": 77},
-            {"day": "Martes", "temp": 81},
-            {"day": "Miércoles", "temp": 85},
-            {"day": "Jueves", "temp": 82},
-            {"day": "Viernes", "temp": 88},
-            {"day": "Sábado", "temp": 91},
-            {"day": "Domingo", "temp": 95}
+        [   # Semana 3
+            {"day": "Lunes", "temp": 27},
+            {"day": "Martes", "temp": 31},
+            {"day": "Miércoles", "temp": 35},
+            {"day": "Jueves", "temp": 22},
+            {"day": "Viernes", "temp": 38},
+            {"day": "Sábado", "temp": 31},
+            {"day": "Domingo", "temp": 45}
         ],
-        [   # abril 4
-            {"day": "Lunes", "temp": 75},
-            {"day": "Martes", "temp": 78},
-            {"day": "Miércoles", "temp": 80},
-            {"day": "Jueves", "temp": 79},
-            {"day": "Viernes", "temp": 84},
-            {"day": "Sábado", "temp": 87},
-            {"day": "Domingo", "temp": 91}
+        [   # Semana 4
+            {"day": "Lunes", "temp": 25},
+            {"day": "Martes", "temp": 38},
+            {"day": "Miércoles", "temp": 10},
+            {"day": "Jueves", "temp": 29},
+            {"day": "Viernes", "temp": 34},
+            {"day": "Sábado", "temp": 27},
+            {"day": "Domingo", "temp": 21}
         ]
     ],
     [   # Puyo 2
-        [   # mayo 1
-            {"day": "Lunes", "temp": 62},
-            {"day": "Martes", "temp": 64},
-            {"day": "Miércoles", "temp": 68},
-            {"day": "Jueves", "temp": 70},
-            {"day": "Viernes", "temp": 73},
-            {"day": "Sábado", "temp": 75},
-            {"day": "Domingo", "temp": 79}
+        [   # Semana 1
+            {"day": "Lunes", "temp": 32},
+            {"day": "Martes", "temp": 44},
+            {"day": "Miércoles", "temp": 28},
+            {"day": "Jueves", "temp": 40},
+            {"day": "Viernes", "temp": 33},
+            {"day": "Sábado", "temp": 45},
+            {"day": "Domingo", "temp": 39}
         ],
-        [   # junio 2
-            {"day": "Lunes", "temp": 63},
-            {"day": "Martes", "temp": 66},
-            {"day": "Miércoles", "temp": 70},
-            {"day": "Jueves", "temp": 72},
-            {"day": "Viernes", "temp": 75},
-            {"day": "Sábado", "temp": 77},
-            {"day": "Domingo", "temp": 81}
+        [   # Semana 2
+            {"day": "Lunes", "temp": 43},
+            {"day": "Martes", "temp": 36},
+            {"day": "Miércoles", "temp": 40},
+            {"day": "Jueves", "temp": 42},
+            {"day": "Viernes", "temp": 25},
+            {"day": "Sábado", "temp": 37},
+            {"day": "Domingo", "temp": 31}
         ],
-        [   # julio 3
-            {"day": "Lunes", "temp": 61},
-            {"day": "Martes", "temp": 65},
-            {"day": "Miércoles", "temp": 68},
-            {"day": "Jueves", "temp": 70},
-            {"day": "Viernes", "temp": 72},
-            {"day": "Sábado", "temp": 76},
-            {"day": "Domingo", "temp": 80}
+        [   # Semana 3
+            {"day": "Lunes", "temp": 31},
+            {"day": "Martes", "temp": 45},
+            {"day": "Miércoles", "temp": 58},
+            {"day": "Jueves", "temp": 30},
+            {"day": "Viernes", "temp": 42},
+            {"day": "Sábado", "temp": 36},
+            {"day": "Domingo", "temp": 40}
         ],
-        [   # agosto 4
-            {"day": "Lunes", "temp": 64},
-            {"day": "Martes", "temp": 67},
-            {"day": "Miércoles", "temp": 69},
-            {"day": "Jueves", "temp": 71},
-            {"day": "Viernes", "temp": 74},
-            {"day": "Sábado", "temp": 77},
-            {"day": "Domingo", "temp": 80}
+        [   # Semana 4
+            {"day": "Lunes", "temp": 44},
+            {"day": "Martes", "temp": 37},
+            {"day": "Miércoles", "temp": 49},
+            {"day": "Jueves", "temp": 31},
+            {"day": "Viernes", "temp": 34},
+            {"day": "Sábado", "temp": 47},
+            {"day": "Domingo", "temp": 40}
         ]
     ],
     [   # Cuenca 3
-        [   # septiembre 1
-            {"day": "Lunes", "temp": 90},
-            {"day": "Martes", "temp": 92},
-            {"day": "Miércoles", "temp": 94},
-            {"day": "Jueves", "temp": 91},
-            {"day": "Viernes", "temp": 88},
-            {"day": "Sábado", "temp": 85},
-            {"day": "Domingo", "temp": 82}
+        [   # Semana 1
+            {"day": "Lunes", "temp": 30},
+            {"day": "Martes", "temp": 22},
+            {"day": "Miércoles", "temp": 24},
+            {"day": "Jueves", "temp": 21},
+            {"day": "Viernes", "temp": 18},
+            {"day": "Sábado", "temp": 18},
+            {"day": "Domingo", "temp": 22}
         ],
-        [   # octubre 2
-            {"day": "Lunes", "temp": 89},
-            {"day": "Martes", "temp": 91},
-            {"day": "Miércoles", "temp": 93},
-            {"day": "Jueves", "temp": 90},
-            {"day": "Viernes", "temp": 87},
-            {"day": "Sábado", "temp": 84},
-            {"day": "Domingo", "temp": 81}
+        [   # Semana 2
+            {"day": "Lunes", "temp": 29},
+            {"day": "Martes", "temp": 21},
+            {"day": "Miércoles", "temp": 13},
+            {"day": "Jueves", "temp": 20},
+            {"day": "Viernes", "temp": 27},
+            {"day": "Sábado", "temp": 24},
+            {"day": "Domingo", "temp": 21}
         ],
-        [   # noviembre 3
-            {"day": "Lunes", "temp": 91},
-            {"day": "Martes", "temp": 93},
-            {"day": "Miércoles", "temp": 95},
-            {"day": "Jueves", "temp": 92},
-            {"day": "Viernes", "temp": 89},
-            {"day": "Sábado", "temp": 86},
-            {"day": "Domingo", "temp": 83}
+        [   # Semana 3
+            {"day": "Lunes", "temp": 21},
+            {"day": "Martes", "temp": 23},
+            {"day": "Miércoles", "temp": 35},
+            {"day": "Jueves", "temp": 22},
+            {"day": "Viernes", "temp": 19},
+            {"day": "Sábado", "temp": 36},
+            {"day": "Domingo", "temp": 23}
         ],
-        [   #  diciembre 4
-            {"day": "Lunes", "temp": 88},
-            {"day": "Martes", "temp": 90},
-            {"day": "Miércoles", "temp": 92},
-            {"day": "Jueves", "temp": 89},
-            {"day": "Viernes", "temp": 86},
-            {"day": "Sábado", "temp": 83},
-            {"day": "Domingo", "temp": 80}
+        [   # Semana 4
+            {"day": "Lunes", "temp": 28},
+            {"day": "Martes", "temp": 10},
+            {"day": "Miércoles", "temp": 22},
+            {"day": "Jueves", "temp": 29},
+            {"day": "Viernes", "temp": 16},
+            {"day": "Sábado", "temp": 23},
+            {"day": "Domingo", "temp": 30}
         ]
     ]
 ]
-
 
 ciudades = ["Quito 1", "Puyo 2", "Cuenca 3"]
 for ciudad_idx, ciudad in enumerate(temperaturas):
@@ -122,5 +121,3 @@ for ciudad_idx, ciudad in enumerate(temperaturas):
         suma_temperaturas = sum([dia["temp"] for dia in semana])
         promedio = suma_temperaturas / len(semana)
         print(f"Promedio de temperaturas en {ciudades[ciudad_idx]}, Semana {semana_idx + 1}: {promedio:.2f} grados")
-
-
